@@ -55,15 +55,15 @@ on a.[index]=b.[index]
 
 
 
----26052 rows × 10 columns
+---26052 rows Ã— 10 columns
 
----(we have updated the table in further queries thats why here it is showing 11 tables)
+---(I have updated the table in further queries thats why here it is showing 11 columns)
 
 
 
 ---Updated Table
 
----(we have segregated the city column in two columns one is city and the other one is country)
+---(I have segregated the city column in two columns, one is city and the other one is country)
 
 
 with cte1 as(
@@ -80,7 +80,7 @@ cte1.[gender],cte1.[amount],cte1.deal_size
 on cte1.[index]=cte2.[index]
 
 
----26052 rows × 11 columns
+---26052 rows Ã— 11 columns
 
 
 
