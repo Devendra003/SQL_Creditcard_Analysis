@@ -1,4 +1,9 @@
 # SQL_Creditcard_Analysis
+The project's goal is to analyze the usage of credit card and analyze spent habit of ussers and provide insights
+
+# Tech Stack & Process involved in building the project
+Step 1: Collect the necessary details about the Credit Card analysis report.
+Step 2: (Explore Process) Fletch the data from the csv file to "MS SQL Server" using ssis.
 
 Observations 1: 
 
