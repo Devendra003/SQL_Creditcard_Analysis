@@ -5,7 +5,7 @@ The project's goal is to analyze the usage of credit card and analyze spent habi
 Step 1: Collect the necessary details about the Credit Card analysis report.
 Step 2: (Explore Process) Fletch the data from the csv file to "MS SQL Server" using ssis.
 
-Observations 1: 
+# Observations 1: 
 
 1. In the data, female users is 5% higher than male users.
 2. The most common spending type is food->fuel->bills->entertainment->grocery and the least is travel
@@ -14,7 +14,7 @@ Observations 1:
    dispersion, I'm interested in the gender and spending type wthin 4 deal sizes
    
 
-Observations 2:
+# Observations 2:
 
 1. In most of the label, Female users has higher percentage than male users.
 2. While comparing expense type, fuel is the only label male users use credit card more than female, 
@@ -24,7 +24,7 @@ which means higher the amount is,more female tend to use credit card and males t
 pay by other methods
 
 
-Observations 3
+# Observations 3
 
 1. Interesting finding is no matter which card type, the interaction with other labels looks indentical.
 2. As far as gender, 4 card types male users spend around 0.3M
